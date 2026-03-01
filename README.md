@@ -69,7 +69,7 @@ java -cp out app.Main
 ![Menú](screenshots/Captura menu inicial.jpeg)
 
 # Código funcionando
-![Codigo](screenshots/Codigo funcional.jpeg)
+![Código](screenshots/Codigo funcional.jpeg)
 
 # Escribiendo texto
 ![Escribir](screenshots/Escribiendo texto.jpeg)
@@ -93,3 +93,4 @@ Actividad EA1.2 - Estructura de Datos: Pilas (Stack)
 # Conclusión
 
 Esta actividad permitió comprender el funcionamiento interno de una pila y cómo puede aplicarse en situaciones reales como la gestión de cambios en un editor de texto. La implementación manual ayudó a reforzar el entendimiento de estructuras de datos dinámicas y su comportamiento LIFO (Last In, First Out).
+
