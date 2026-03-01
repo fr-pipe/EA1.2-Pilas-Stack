@@ -65,22 +65,22 @@ java -cp out app.Main
 
 # Capturas de ejecución
 
-# Menú inicial
-![Menu inicial](screenshots/Captura menu inicial.jpeg)
+# MENU INICIAL
+![Menú](screenshots/Captura%20menu%20inicial.jpeg)
 
-# Código funcionando
-![Código funcional](screenshots/Codigo funcional.jpeg)
+# CODIGO FUNCIONAL
+![Código](screenshots/Codigo%20funcional.jpeg)
 
-# Escribiendo texto
-![Escribiendo texto](screenshots/Escribiendo texto.jpeg)
+# ESCRIBIENDO TEXTO
+![Escribiendo](screenshots/Escribiendo%20texto.jpeg)
 
-# Mostrando texto
-![Mostrando texto](screenshots/Mostrando texto.jpeg)
+# MOSTRANDO TEXTO
+![Mostrando](screenshots/Mostrando%20texto.jpeg)
 
-# Undo funcionando
+# UNDO FUNCIONANDO
 ![Undo](screenshots/Undo.jpeg)
 
-# Redo funcionando
+# REDO FUNCIONANDO
 ![Redo](screenshots/Redo.jpeg)
 
 # Autor
@@ -93,5 +93,6 @@ Actividad EA1.2 - Estructura de Datos: Pilas (Stack)
 # Conclusión
 
 Esta actividad permitió comprender el funcionamiento interno de una pila y cómo puede aplicarse en situaciones reales como la gestión de cambios en un editor de texto. La implementación manual ayudó a reforzar el entendimiento de estructuras de datos dinámicas y su comportamiento LIFO (Last In, First Out).
+
 
 
